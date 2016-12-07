@@ -1,0 +1,11 @@
+
+.container {
+  font-family: Georgia, sans-serif;
+  padding: 20px;
+}
+
+.locales{
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #eee;
+}
